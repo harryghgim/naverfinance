@@ -1,4 +1,1 @@
-.venv
-.python-version
-.ipynb_checkpoints
-code.ipynb
+.vscode/
