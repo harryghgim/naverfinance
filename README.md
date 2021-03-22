@@ -1,9 +1,9 @@
 # naverfinance
-네이버 주식 웹사이트에서 당일 종목 정보(지수, 시세 등)를 가져오는 파이썬 프로그램입니다.
+[네이버 주식 웹사이트](https://finance.naver.com/)에서 당일 종목 정보(지수, 시세 등)를 가져오는 파이썬 프로그램입니다.
 
 ## 사용법
 ```
-$ python naverFinance.py
+$ python nfinance.py
 종목명을 입력하세요: 케이티
 현재시각 03월22일, 08:15 PM
 
